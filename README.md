@@ -1,4 +1,4 @@
-# Custom_object_detection-_YoloV5
+# Custom_object_detection-YoloV5
 ##Create a custom dataset by using roboflow https://roboflow.com/templates
 steps:
     Create a new public project 
